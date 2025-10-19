@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            Auto nextjs
+            Auto nextjs is here
           </li>
         </ol>
 
